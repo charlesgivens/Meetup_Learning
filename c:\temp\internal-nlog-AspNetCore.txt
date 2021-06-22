@@ -1,0 +1,9 @@
+2021-06-22 19:51:51.7076 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-22 19:51:51.7076 Info Message Template Auto Format enabled
+2021-06-22 19:51:51.7076 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 19:51:51.7088 Info Adding target FileTarget(Name=allfile)
+2021-06-22 19:51:51.7088 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 19:51:51.7088 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 19:51:51.7095 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 19:51:51.7095 Info Closing old configuration.
+2021-06-22 19:51:51.8507 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
