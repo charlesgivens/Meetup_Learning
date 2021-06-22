@@ -25,7 +25,6 @@ namespace MeetupApi
           InsertSampleData();
         } else
         {
-          Console.WriteLine("Error: Seed Data exists");
         }
       } else
       {

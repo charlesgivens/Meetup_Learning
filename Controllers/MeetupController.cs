@@ -1,3 +1,4 @@
+using System.Net;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,6 +9,7 @@ using MeetupAPI.Entities;
 using AutoMapper;
 using MeetupApi.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MeetupApi.Controllers
 {
@@ -26,13 +28,14 @@ namespace MeetupApi.Controllers
     [HttpGet]
     public ActionResult<List<MeetupDetailsDto>> Get()
     {
-      var meetups = _meetupContext.Meetups.Include(m => m.Location).ToList();
+      var meetups = _meetupContext.Meetups.Include(m => m.Location).Include(m => m.Lectures).ToList();
       var meetupDtos = _mapper.Map<List<MeetupDetailsDto>>(meetups);
 
       return Ok(meetupDtos);
     }
 
     [HttpGet("{name}")]
+    [Authorize]
     public ActionResult<MeetupDetailsDto> Get(string name)
     {
       var meetup = _meetupContext.Meetups

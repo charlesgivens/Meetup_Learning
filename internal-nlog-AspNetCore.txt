@@ -1,0 +1,576 @@
+2021-06-21 16:06:32.4326 Info Message Template Auto Format enabled
+2021-06-21 16:06:32.4459 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 16:06:32.4768 Info Adding target FileTarget(Name=allfile)
+2021-06-21 16:06:32.4781 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 16:06:32.4786 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 16:06:32.4799 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 16:06:32.6104 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 16:06:32.6306 Info Configuration initialized.
+2021-06-21 16:06:32.6312 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 16:06:47.0543 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 16:06:47.0543 Info Message Template Auto Format enabled
+2021-06-21 16:06:47.0548 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 16:06:47.0559 Info Adding target FileTarget(Name=allfile)
+2021-06-21 16:06:47.0559 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 16:06:47.0559 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 16:06:47.0567 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 16:06:47.0567 Info Closing old configuration.
+2021-06-21 16:06:47.1789 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 16:07:39.6363 Info Message Template Auto Format enabled
+2021-06-21 16:07:39.6517 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 16:07:39.6868 Info Adding target FileTarget(Name=allfile)
+2021-06-21 16:07:39.6882 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 16:07:39.6882 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 16:07:39.6903 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 16:07:39.8214 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 16:07:39.8384 Info Configuration initialized.
+2021-06-21 16:07:39.8391 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 19:05:19.8966 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 19:05:19.8975 Info Message Template Auto Format enabled
+2021-06-21 19:05:19.8978 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 19:05:19.8996 Info Adding target FileTarget(Name=allfile)
+2021-06-21 19:05:19.9000 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 19:05:19.9000 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 19:05:19.9000 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 19:05:19.9012 Info Closing old configuration.
+2021-06-21 19:05:20.0444 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 20:06:48.9038 Info Message Template Auto Format enabled
+2021-06-21 20:06:48.9190 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:06:48.9512 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:06:48.9525 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:06:48.9530 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:06:48.9542 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:06:49.1111 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:06:49.1286 Info Configuration initialized.
+2021-06-21 20:06:49.1293 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 20:06:49.7893 Info AppDomain Shutting down. Logger closing...
+2021-06-21 20:06:49.7956 Info Logger has been shut down.
+2021-06-21 20:07:55.4868 Info Message Template Auto Format enabled
+2021-06-21 20:07:55.4996 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:07:55.5296 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:07:55.5309 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:07:55.5314 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:07:55.5327 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:07:55.6774 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:07:55.6921 Info Configuration initialized.
+2021-06-21 20:07:55.6921 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 20:07:56.5176 Info AppDomain Shutting down. Logger closing...
+2021-06-21 20:07:56.5230 Info Logger has been shut down.
+2021-06-21 20:13:43.5512 Info Message Template Auto Format enabled
+2021-06-21 20:13:43.5642 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:13:43.5947 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:13:43.5960 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:13:43.5965 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:13:43.5977 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:13:43.7450 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:13:43.7623 Info Configuration initialized.
+2021-06-21 20:13:43.7630 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 20:13:44.3635 Info AppDomain Shutting down. Logger closing...
+2021-06-21 20:13:44.3697 Info Logger has been shut down.
+2021-06-21 20:13:56.3814 Info Message Template Auto Format enabled
+2021-06-21 20:13:56.3942 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:13:56.4253 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:13:56.4268 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:13:56.4268 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:13:56.4288 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:13:56.5748 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:13:56.5894 Info Configuration initialized.
+2021-06-21 20:13:56.5900 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 20:13:57.4390 Info AppDomain Shutting down. Logger closing...
+2021-06-21 20:13:57.4446 Info Logger has been shut down.
+2021-06-21 20:17:52.3594 Info Message Template Auto Format enabled
+2021-06-21 20:17:52.3741 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:17:52.4094 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:17:52.4110 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:17:52.4110 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:17:52.4131 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:17:52.5631 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:17:52.5800 Info Configuration initialized.
+2021-06-21 20:17:52.5800 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 20:41:42.1831 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 20:41:42.1831 Info Message Template Auto Format enabled
+2021-06-21 20:41:42.1831 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:41:42.1842 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:41:42.1842 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:41:42.1842 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:41:42.1849 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:41:42.1849 Info Closing old configuration.
+2021-06-21 20:41:47.7229 Info Message Template Auto Format enabled
+2021-06-21 20:41:47.7358 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:41:47.7668 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:41:47.7682 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:41:47.7682 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:41:47.7700 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:41:47.9180 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:41:47.9351 Info Configuration initialized.
+2021-06-21 20:41:47.9351 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 20:45:43.2400 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 20:45:43.2400 Info Message Template Auto Format enabled
+2021-06-21 20:45:43.2400 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:45:43.2411 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:45:43.2411 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:45:43.2418 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:45:43.2418 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:45:43.2418 Info Closing old configuration.
+2021-06-21 20:45:43.3805 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 20:46:02.1375 Info Message Template Auto Format enabled
+2021-06-21 20:46:02.1521 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:46:02.1849 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:46:02.1862 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:46:02.1862 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:46:02.1880 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:46:02.3394 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:46:02.3572 Info Configuration initialized.
+2021-06-21 20:46:02.3572 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 20:46:02.9651 Info AppDomain Shutting down. Logger closing...
+2021-06-21 20:46:02.9708 Info Logger has been shut down.
+2021-06-21 20:46:10.8995 Info Message Template Auto Format enabled
+2021-06-21 20:46:10.9124 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:46:10.9427 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:46:10.9440 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:46:10.9445 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:46:10.9458 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:46:11.0935 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:46:11.1087 Info Configuration initialized.
+2021-06-21 20:46:11.1093 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 20:46:11.9159 Info AppDomain Shutting down. Logger closing...
+2021-06-21 20:46:11.9219 Info Logger has been shut down.
+2021-06-21 20:46:18.0463 Info Message Template Auto Format enabled
+2021-06-21 20:46:18.0619 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:46:18.0997 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:46:18.1012 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:46:18.1018 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:46:18.1033 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:46:18.2551 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:46:18.2715 Info Configuration initialized.
+2021-06-21 20:46:18.2715 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 20:47:15.7522 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 20:47:15.7529 Info Message Template Auto Format enabled
+2021-06-21 20:47:15.7529 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:47:15.7541 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:47:15.7541 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:47:15.7548 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:47:15.7548 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:47:15.7548 Info Closing old configuration.
+2021-06-21 20:47:15.8929 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 20:49:23.7835 Info Message Template Auto Format enabled
+2021-06-21 20:49:23.7978 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:49:23.8282 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:49:23.8295 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:49:23.8300 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:49:23.8313 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:49:23.9778 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:49:23.9948 Info Configuration initialized.
+2021-06-21 20:49:23.9948 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 20:49:24.5915 Info AppDomain Shutting down. Logger closing...
+2021-06-21 20:49:24.5978 Info Logger has been shut down.
+2021-06-21 20:49:34.0850 Info Message Template Auto Format enabled
+2021-06-21 20:49:34.0977 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:49:34.1272 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:49:34.1284 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:49:34.1284 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:49:34.1302 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:49:34.2751 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:49:34.2927 Info Configuration initialized.
+2021-06-21 20:49:34.2934 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 20:49:45.6251 Info AppDomain Shutting down. Logger closing...
+2021-06-21 20:49:45.6308 Info Logger has been shut down.
+2021-06-21 20:49:50.4354 Info Message Template Auto Format enabled
+2021-06-21 20:49:50.4503 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 20:49:50.4823 Info Adding target FileTarget(Name=allfile)
+2021-06-21 20:49:50.4835 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 20:49:50.4835 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 20:49:50.4845 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 20:49:50.6326 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 20:49:50.6484 Info Configuration initialized.
+2021-06-21 20:49:50.6491 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 21:25:28.7245 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 21:25:28.7251 Info Message Template Auto Format enabled
+2021-06-21 21:25:28.7251 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 21:25:28.7265 Info Adding target FileTarget(Name=allfile)
+2021-06-21 21:25:28.7265 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 21:25:28.7265 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 21:25:28.7272 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 21:25:28.7272 Info Closing old configuration.
+2021-06-21 21:25:28.8835 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 21:46:05.6662 Info Message Template Auto Format enabled
+2021-06-21 21:46:05.6813 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 21:46:05.7126 Info Adding target FileTarget(Name=allfile)
+2021-06-21 21:46:05.7139 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 21:46:05.7139 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 21:46:05.7150 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 21:46:05.8649 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 21:46:05.8809 Info Configuration initialized.
+2021-06-21 21:46:05.8815 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 21:49:02.1544 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 21:49:02.1554 Info Message Template Auto Format enabled
+2021-06-21 21:49:02.1556 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 21:49:02.1576 Info Adding target FileTarget(Name=allfile)
+2021-06-21 21:49:02.1576 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 21:49:02.1576 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 21:49:02.1585 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 21:49:02.1585 Info Closing old configuration.
+2021-06-21 21:49:02.3020 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 21:49:26.9831 Info Message Template Auto Format enabled
+2021-06-21 21:49:26.9984 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 21:49:27.0306 Info Adding target FileTarget(Name=allfile)
+2021-06-21 21:49:27.0318 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 21:49:27.0323 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 21:49:27.0336 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 21:49:27.1816 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 21:49:27.1989 Info Configuration initialized.
+2021-06-21 21:49:27.1995 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 21:49:27.8527 Info AppDomain Shutting down. Logger closing...
+2021-06-21 21:49:27.8592 Info Logger has been shut down.
+2021-06-21 21:49:38.4505 Info Message Template Auto Format enabled
+2021-06-21 21:49:38.4637 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 21:49:38.4946 Info Adding target FileTarget(Name=allfile)
+2021-06-21 21:49:38.4959 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 21:49:38.4964 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 21:49:38.4976 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 21:49:38.6476 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 21:49:38.6651 Info Configuration initialized.
+2021-06-21 21:49:38.6658 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 21:49:39.5949 Info AppDomain Shutting down. Logger closing...
+2021-06-21 21:49:39.6012 Info Logger has been shut down.
+2021-06-21 21:50:15.1663 Info Message Template Auto Format enabled
+2021-06-21 21:50:15.1813 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 21:50:15.2166 Info Adding target FileTarget(Name=allfile)
+2021-06-21 21:50:15.2181 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 21:50:15.2181 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 21:50:15.2201 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 21:50:15.3748 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 21:50:15.3920 Info Configuration initialized.
+2021-06-21 21:50:15.3920 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 21:53:49.1674 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 21:53:49.1674 Info Message Template Auto Format enabled
+2021-06-21 21:53:49.1685 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 21:53:49.1696 Info Adding target FileTarget(Name=allfile)
+2021-06-21 21:53:49.1696 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 21:53:49.1696 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 21:53:49.1704 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 21:53:49.1704 Info Closing old configuration.
+2021-06-21 21:53:49.3093 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 21:53:54.6602 Info Message Template Auto Format enabled
+2021-06-21 21:53:54.6748 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 21:53:54.7056 Info Adding target FileTarget(Name=allfile)
+2021-06-21 21:53:54.7069 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 21:53:54.7075 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 21:53:54.7089 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 21:53:54.8588 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 21:53:54.8756 Info Configuration initialized.
+2021-06-21 21:53:54.8756 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 21:58:36.3789 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 21:58:36.3795 Info Message Template Auto Format enabled
+2021-06-21 21:58:36.3795 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 21:58:36.3811 Info Adding target FileTarget(Name=allfile)
+2021-06-21 21:58:36.3811 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 21:58:36.3811 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 21:58:36.3811 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 21:58:36.3824 Info Closing old configuration.
+2021-06-21 21:58:36.5206 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 21:58:40.9968 Info Message Template Auto Format enabled
+2021-06-21 21:58:41.0128 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 21:58:41.0481 Info Adding target FileTarget(Name=allfile)
+2021-06-21 21:58:41.0496 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 21:58:41.0501 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 21:58:41.0515 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 21:58:41.2049 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 21:58:41.2220 Info Configuration initialized.
+2021-06-21 21:58:41.2220 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 22:01:42.3488 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 22:01:42.3496 Info Message Template Auto Format enabled
+2021-06-21 22:01:42.3496 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 22:01:42.3511 Info Adding target FileTarget(Name=allfile)
+2021-06-21 22:01:42.3515 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 22:01:42.3515 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 22:01:42.3515 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 22:01:42.3527 Info Closing old configuration.
+2021-06-21 22:01:42.4897 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 22:01:47.0486 Info Message Template Auto Format enabled
+2021-06-21 22:01:47.0616 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 22:01:47.0923 Info Adding target FileTarget(Name=allfile)
+2021-06-21 22:01:47.0936 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 22:01:47.0936 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 22:01:47.0955 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 22:01:47.2450 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 22:01:47.2619 Info Configuration initialized.
+2021-06-21 22:01:47.2625 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 22:14:58.8604 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 22:14:58.8613 Info Message Template Auto Format enabled
+2021-06-21 22:14:58.8615 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 22:14:58.8630 Info Adding target FileTarget(Name=allfile)
+2021-06-21 22:14:58.8630 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 22:14:58.8637 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 22:14:58.8637 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 22:14:58.8637 Info Closing old configuration.
+2021-06-21 22:14:59.0030 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 22:47:13.8172 Info Message Template Auto Format enabled
+2021-06-21 22:47:13.8308 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 22:47:13.8613 Info Adding target FileTarget(Name=allfile)
+2021-06-21 22:47:13.8625 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 22:47:13.8630 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 22:47:13.8643 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 22:47:14.0116 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 22:47:14.0267 Info Configuration initialized.
+2021-06-21 22:47:14.0273 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 22:54:00.8821 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 22:54:00.8827 Info Message Template Auto Format enabled
+2021-06-21 22:54:00.8827 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 22:54:00.8846 Info Adding target FileTarget(Name=allfile)
+2021-06-21 22:54:00.8846 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 22:54:00.8854 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 22:54:00.8854 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 22:54:00.8854 Info Closing old configuration.
+2021-06-21 22:54:01.0263 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 22:54:07.6501 Info Message Template Auto Format enabled
+2021-06-21 22:54:07.6633 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 22:54:07.6934 Info Adding target FileTarget(Name=allfile)
+2021-06-21 22:54:07.6947 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 22:54:07.6947 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 22:54:07.6956 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 22:54:07.8446 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 22:54:07.8620 Info Configuration initialized.
+2021-06-21 22:54:07.8626 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 23:00:26.9472 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 23:00:26.9478 Info Message Template Auto Format enabled
+2021-06-21 23:00:26.9478 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:00:26.9491 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:00:26.9491 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:00:26.9497 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:00:26.9497 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:00:26.9497 Info Closing old configuration.
+2021-06-21 23:00:27.0888 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 23:00:52.6383 Info Message Template Auto Format enabled
+2021-06-21 23:00:52.6512 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:00:52.6812 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:00:52.6824 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:00:52.6824 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:00:52.6842 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:00:52.8311 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 23:00:52.8461 Info Configuration initialized.
+2021-06-21 23:00:52.8461 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 23:03:18.4044 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 23:03:18.4044 Info Message Template Auto Format enabled
+2021-06-21 23:03:18.4044 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:03:18.4053 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:03:18.4053 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:03:18.4053 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:03:18.4053 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:03:18.4064 Info Closing old configuration.
+2021-06-21 23:03:18.5443 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 23:03:24.0278 Info Message Template Auto Format enabled
+2021-06-21 23:03:24.0407 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:03:24.0704 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:03:24.0716 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:03:24.0716 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:03:24.0734 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:03:24.2202 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 23:03:24.2371 Info Configuration initialized.
+2021-06-21 23:03:24.2378 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 23:13:31.8489 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 23:13:31.8489 Info Message Template Auto Format enabled
+2021-06-21 23:13:31.8489 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:13:31.8498 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:13:31.8498 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:13:31.8498 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:13:31.8498 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:13:31.8510 Info Closing old configuration.
+2021-06-21 23:13:31.9696 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 23:13:37.4659 Info Message Template Auto Format enabled
+2021-06-21 23:13:37.4789 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:13:37.5088 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:13:37.5100 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:13:37.5105 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:13:37.5119 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:13:37.6587 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 23:13:37.6757 Info Configuration initialized.
+2021-06-21 23:13:37.6763 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 23:16:57.9789 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 23:16:57.9789 Info Message Template Auto Format enabled
+2021-06-21 23:16:57.9789 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:16:57.9799 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:16:57.9799 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:16:57.9805 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:16:57.9805 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:16:57.9805 Info Closing old configuration.
+2021-06-21 23:16:58.1196 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 23:17:04.0705 Info Message Template Auto Format enabled
+2021-06-21 23:17:04.0835 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:17:04.1129 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:17:04.1142 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:17:04.1146 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:17:04.1159 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:17:04.2612 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 23:17:04.2779 Info Configuration initialized.
+2021-06-21 23:17:04.2787 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 23:18:03.3582 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 23:18:03.3582 Info Message Template Auto Format enabled
+2021-06-21 23:18:03.3582 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:18:03.3593 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:18:03.3593 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:18:03.3593 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:18:03.3599 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:18:03.3599 Info Closing old configuration.
+2021-06-21 23:18:03.4990 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 23:18:03.7414 Info Shutdown() called. Logger closing...
+2021-06-21 23:18:03.7414 Info Closing old configuration.
+2021-06-21 23:18:03.7421 Info Logger has been closed down.
+2021-06-21 23:18:03.7429 Info AppDomain Shutting down. Logger closing...
+2021-06-21 23:18:03.7441 Info Logger has been shut down.
+2021-06-21 23:18:08.9770 Info Message Template Auto Format enabled
+2021-06-21 23:18:08.9902 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:18:09.0206 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:18:09.0218 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:18:09.0223 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:18:09.0236 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:18:09.1745 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 23:18:09.1910 Info Configuration initialized.
+2021-06-21 23:18:09.1910 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 23:24:05.1247 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 23:24:05.1247 Info Message Template Auto Format enabled
+2021-06-21 23:24:05.1247 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:24:05.1257 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:24:05.1257 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:24:05.1257 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:24:05.1257 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:24:05.1269 Info Closing old configuration.
+2021-06-21 23:24:05.2647 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 23:24:09.8319 Info Message Template Auto Format enabled
+2021-06-21 23:24:09.8455 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:24:09.8747 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:24:09.8759 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:24:09.8759 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:24:09.8775 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:24:10.0246 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 23:24:10.0408 Info Configuration initialized.
+2021-06-21 23:24:10.0415 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-21 23:30:04.7544 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-21 23:30:04.7547 Info Message Template Auto Format enabled
+2021-06-21 23:30:04.7547 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:30:04.7547 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:30:04.7558 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:30:04.7558 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:30:04.7558 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:30:04.7566 Info Closing old configuration.
+2021-06-21 23:30:04.8933 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-21 23:50:45.8142 Info Message Template Auto Format enabled
+2021-06-21 23:50:45.8292 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-21 23:50:45.8596 Info Adding target FileTarget(Name=allfile)
+2021-06-21 23:50:45.8608 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-21 23:50:45.8608 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-21 23:50:45.8617 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-21 23:50:46.0098 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-21 23:50:46.0280 Info Configuration initialized.
+2021-06-21 23:50:46.0287 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-22 17:18:19.3727 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-22 17:18:19.3754 Info Message Template Auto Format enabled
+2021-06-22 17:18:19.3759 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 17:18:19.3771 Info Adding target FileTarget(Name=allfile)
+2021-06-22 17:18:19.3771 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 17:18:19.3777 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 17:18:19.3777 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 17:18:19.3785 Info Closing old configuration.
+2021-06-22 17:57:41.2750 Info Message Template Auto Format enabled
+2021-06-22 17:57:41.2889 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 17:57:41.3189 Info Adding target FileTarget(Name=allfile)
+2021-06-22 17:57:41.3201 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 17:57:41.3206 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 17:57:41.3219 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 17:57:41.4670 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-22 17:57:41.4853 Info Configuration initialized.
+2021-06-22 17:57:41.4859 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-22 17:57:42.1106 Info AppDomain Shutting down. Logger closing...
+2021-06-22 17:57:42.1173 Info Logger has been shut down.
+2021-06-22 17:58:01.1800 Info Message Template Auto Format enabled
+2021-06-22 17:58:01.1926 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 17:58:01.2227 Info Adding target FileTarget(Name=allfile)
+2021-06-22 17:58:01.2240 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 17:58:01.2240 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 17:58:01.2258 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 17:58:01.3713 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-22 17:58:01.3878 Info Configuration initialized.
+2021-06-22 17:58:01.3878 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-22 17:58:12.7900 Info AppDomain Shutting down. Logger closing...
+2021-06-22 17:58:12.7958 Info Logger has been shut down.
+2021-06-22 18:10:54.5896 Info Message Template Auto Format enabled
+2021-06-22 18:10:54.6025 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 18:10:54.6328 Info Adding target FileTarget(Name=allfile)
+2021-06-22 18:10:54.6341 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 18:10:54.6346 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 18:10:54.6359 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 18:10:54.7812 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-22 18:10:54.7987 Info Configuration initialized.
+2021-06-22 18:10:54.7987 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-22 19:12:21.5350 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-22 19:12:21.5350 Info Message Template Auto Format enabled
+2021-06-22 19:12:21.5350 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 19:12:21.5361 Info Adding target FileTarget(Name=allfile)
+2021-06-22 19:12:21.5361 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 19:12:21.5367 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 19:12:21.5367 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 19:12:21.5367 Info Closing old configuration.
+2021-06-22 19:12:21.6828 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-22 19:12:27.4892 Info Message Template Auto Format enabled
+2021-06-22 19:12:27.5023 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 19:12:27.5320 Info Adding target FileTarget(Name=allfile)
+2021-06-22 19:12:27.5333 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 19:12:27.5337 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 19:12:27.5350 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 19:12:27.6858 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-22 19:12:27.7025 Info Configuration initialized.
+2021-06-22 19:12:27.7032 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-22 19:18:41.6294 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-22 19:18:41.6296 Info Message Template Auto Format enabled
+2021-06-22 19:18:41.6296 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 19:18:41.6296 Info Adding target FileTarget(Name=allfile)
+2021-06-22 19:18:41.6309 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 19:18:41.6309 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 19:18:41.6309 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 19:18:41.6318 Info Closing old configuration.
+2021-06-22 19:18:41.7768 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-22 19:18:46.8958 Info Message Template Auto Format enabled
+2021-06-22 19:18:46.9345 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 19:18:46.9884 Info Adding target FileTarget(Name=allfile)
+2021-06-22 19:18:47.0030 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 19:18:47.0038 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 19:18:47.0057 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 19:18:47.1702 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-22 19:18:47.1866 Info Configuration initialized.
+2021-06-22 19:18:47.1873 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-22 19:26:42.2666 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-22 19:26:42.2670 Info Message Template Auto Format enabled
+2021-06-22 19:26:42.2670 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 19:26:42.2670 Info Adding target FileTarget(Name=allfile)
+2021-06-22 19:26:42.2680 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 19:26:42.2680 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 19:26:42.2680 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 19:26:42.2680 Info Closing old configuration.
+2021-06-22 19:26:42.4076 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-22 19:36:04.6671 Info Message Template Auto Format enabled
+2021-06-22 19:36:04.6802 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 19:36:04.7107 Info Adding target FileTarget(Name=allfile)
+2021-06-22 19:36:04.7120 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 19:36:04.7125 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 19:36:04.7138 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 19:36:04.8677 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-22 19:36:04.8848 Info Configuration initialized.
+2021-06-22 19:36:04.8855 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
+2021-06-22 19:49:11.2597 Info Configuring from an XML element in /Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config...
+2021-06-22 19:49:11.2597 Info Message Template Auto Format enabled
+2021-06-22 19:49:11.2597 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 19:49:11.2607 Info Adding target FileTarget(Name=allfile)
+2021-06-22 19:49:11.2607 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 19:49:11.2607 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 19:49:11.2614 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 19:49:11.2614 Info Closing old configuration.
+2021-06-22 19:49:11.4040 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/nlog.config
+2021-06-22 19:49:20.5675 Info Message Template Auto Format enabled
+2021-06-22 19:49:20.5805 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-22 19:49:20.6108 Info Adding target FileTarget(Name=allfile)
+2021-06-22 19:49:20.6121 Info Adding target FileTarget(Name=ownFile-web)
+2021-06-22 19:49:20.6126 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-06-22 19:49:20.6140 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-06-22 19:49:20.7640 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=69, FilePath=/Users/cgivens/Repos/MeetupApi_Learn/bin/Debug/net5.0/NLog.config
+2021-06-22 19:49:20.7810 Info Configuration initialized.
+2021-06-22 19:49:20.7816 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.9.12899. Product version: 4.7.9+e8712e62842e2d74d60fdf37cf74d743750e5ca2. GlobalAssemblyCache: False
